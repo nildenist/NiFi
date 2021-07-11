@@ -39,6 +39,7 @@ It starts to download the zip file.
 ------
 ### STEP 6: 
 Then it is time to download NiFi same as Java. Go to https://nifi.apache.org/download.html and under the Binaries select the latest version, **nifi-1.13.2-bin.tar.gz ( asc, sha256, sha512 )** is the latest the time this readme is written. 
+
 ------
 ### STEP 7: 
 Copy the link of the mirror under this statement "We suggest the following mirror site for your download:" 
