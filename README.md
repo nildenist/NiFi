@@ -50,6 +50,7 @@ https://ftp.itu.edu.tr/Mirror/Apache/nifi/1.13.2/nifi-1.13.2-bin.tar.gz
 ### STEP 8: 
 Turn back to the terminal and once again do the same thing like in Java install. 
 ```wget -O nifi-1.13.2-bin.tar.gz https://ftp.itu.edu.tr/Mirror/Apache/nifi/1.13.2/nifi-1.13.2-bin.tar.gz```
+
 ------
 ### STEP 9: 
 After downloading we need to exract these tar.gz files. First check whether downloaded zip files in /home directory
